@@ -1,0 +1,13 @@
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicios-CSharp\bin\Debug\netcoreapp3.1\Exercicios-CSharp.exe
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicios-CSharp\bin\Debug\netcoreapp3.1\Exercicios-CSharp.deps.json
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicios-CSharp\bin\Debug\netcoreapp3.1\Exercicios-CSharp.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicios-CSharp\bin\Debug\netcoreapp3.1\Exercicios-CSharp.runtimeconfig.dev.json
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicios-CSharp\bin\Debug\netcoreapp3.1\Exercicios-CSharp.dll
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicios-CSharp\bin\Debug\netcoreapp3.1\Exercicios-CSharp.pdb
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicios-CSharp\obj\Debug\netcoreapp3.1\Exercicios-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicios-CSharp\obj\Debug\netcoreapp3.1\Exercicios-CSharp.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicios-CSharp\obj\Debug\netcoreapp3.1\Exercicios-CSharp.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicios-CSharp\obj\Debug\netcoreapp3.1\Exercicios-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicios-CSharp\obj\Debug\netcoreapp3.1\Exercicios-CSharp.dll
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicios-CSharp\obj\Debug\netcoreapp3.1\Exercicios-CSharp.pdb
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicios-CSharp\obj\Debug\netcoreapp3.1\Exercicios-CSharp.genruntimeconfig.cache
