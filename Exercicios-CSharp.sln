@@ -3,29 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios-CSharp", "Exercicios-CSharp\Exercicios-CSharp.csproj", "{34EA5BB8-28A5-4FE0-A320-9907B03EB6B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicios-CSharp", "Exercicios-CSharp\Exercicios-CSharp.csproj", "{34EA5BB8-28A5-4FE0-A320-9907B03EB6B1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio1", "Exercicio1", "{885312E0-A175-4C07-9900-5F41D94FE078}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio2", "Exercicio2", "{E0DB1AAA-F890-4259-94EB-70099B0957AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio2", "Exercicio2\Exercicio2.csproj", "{D05BA143-38C1-4FF3-AEC1-0950A1A1989E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio2", "Exercicio2\Exercicio2.csproj", "{D05BA143-38C1-4FF3-AEC1-0950A1A1989E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercicio3", "Exercicio3", "{6DD117D4-C64B-4D50-94EA-E54944D5026F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio3", "Exercicio3\Exercicio3.csproj", "{C0BEC6CA-B81E-41FF-B5A5-7AC3FEEB91A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio3", "Exercicio3\Exercicio3.csproj", "{C0BEC6CA-B81E-41FF-B5A5-7AC3FEEB91A1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula-exercicio1", "Aula-exercicio1", "{818FC97F-7C1F-4F01-8ACE-160938BBA1FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula-Exercicio1", "Aula-Exercicio1\Aula-Exercicio1.csproj", "{DA980A61-B66C-47C7-B57B-B3E586B67E11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula-Exercicio1", "Aula-Exercicio1\Aula-Exercicio1.csproj", "{DA980A61-B66C-47C7-B57B-B3E586B67E11}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula-exercicio2", "Aula-exercicio2", "{F8905089-312E-4EE2-96CB-CC22F075CBD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula-exercicio2", "Aula-exercicio2\Aula-exercicio2.csproj", "{54556866-6D7D-4295-AB5C-203219724778}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula-exercicio2", "Aula-exercicio2\Aula-exercicio2.csproj", "{54556866-6D7D-4295-AB5C-203219724778}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula-exercicio3", "Aula-exercicio3", "{7DDBE307-868C-4F4A-975E-EC925DFCBF17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula-exercicio3", "Aula-exercicio3\Aula-exercicio3.csproj", "{EA52B5FA-F12A-42A2-B1BA-E5D062EF0B91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula-exercicio3", "Aula-exercicio3\Aula-exercicio3.csproj", "{EA52B5FA-F12A-42A2-B1BA-E5D062EF0B91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula-15-03", "Aula-15-03", "{6CFC94B4-813E-48CD-A261-F77BF92CD1F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula-15-03", "Aula-15-03\Aula-15-03.csproj", "{754D018A-7E91-42A0-8E62-4075D80AED05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,10 @@ Global
 		{EA52B5FA-F12A-42A2-B1BA-E5D062EF0B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA52B5FA-F12A-42A2-B1BA-E5D062EF0B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA52B5FA-F12A-42A2-B1BA-E5D062EF0B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{754D018A-7E91-42A0-8E62-4075D80AED05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754D018A-7E91-42A0-8E62-4075D80AED05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754D018A-7E91-42A0-8E62-4075D80AED05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754D018A-7E91-42A0-8E62-4075D80AED05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -68,6 +76,7 @@ Global
 		{DA980A61-B66C-47C7-B57B-B3E586B67E11} = {818FC97F-7C1F-4F01-8ACE-160938BBA1FB}
 		{54556866-6D7D-4295-AB5C-203219724778} = {F8905089-312E-4EE2-96CB-CC22F075CBD4}
 		{EA52B5FA-F12A-42A2-B1BA-E5D062EF0B91} = {7DDBE307-868C-4F4A-975E-EC925DFCBF17}
+		{754D018A-7E91-42A0-8E62-4075D80AED05} = {6CFC94B4-813E-48CD-A261-F77BF92CD1F4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {53378E29-B6A5-4FB3-BAC2-20EFFCBAA4C3}
