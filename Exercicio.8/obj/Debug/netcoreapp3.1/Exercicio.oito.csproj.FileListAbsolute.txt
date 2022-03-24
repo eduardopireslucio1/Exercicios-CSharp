@@ -1,0 +1,14 @@
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.8\bin\Debug\netcoreapp3.1\Exercicio.oito.exe
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.8\bin\Debug\netcoreapp3.1\Exercicio.oito.deps.json
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.8\bin\Debug\netcoreapp3.1\Exercicio.oito.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.8\bin\Debug\netcoreapp3.1\Exercicio.oito.runtimeconfig.dev.json
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.8\bin\Debug\netcoreapp3.1\Exercicio.oito.dll
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.8\bin\Debug\netcoreapp3.1\Exercicio.oito.pdb
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.8\obj\Debug\netcoreapp3.1\Exercicio.oito.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.8\obj\Debug\netcoreapp3.1\Exercicio.oito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.8\obj\Debug\netcoreapp3.1\Exercicio.oito.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.8\obj\Debug\netcoreapp3.1\Exercicio.oito.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.8\obj\Debug\netcoreapp3.1\Exercicio.oito.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.8\obj\Debug\netcoreapp3.1\Exercicio.oito.dll
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.8\obj\Debug\netcoreapp3.1\Exercicio.oito.pdb
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.8\obj\Debug\netcoreapp3.1\Exercicio.oito.genruntimeconfig.cache

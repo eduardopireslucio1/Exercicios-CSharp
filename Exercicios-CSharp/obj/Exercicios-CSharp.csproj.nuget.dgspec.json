@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\facec.lab01\\Source\\Repos\\Exercicios-CSharp\\Exercicios-CSharp\\Exercicios-CSharp.csproj": {}
+    "C:\\Users\\facec.lab04\\source\\repos\\Exercicios-CSharp\\Exercicios-CSharp\\Exercicios-CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\facec.lab01\\Source\\Repos\\Exercicios-CSharp\\Exercicios-CSharp\\Exercicios-CSharp.csproj": {
+    "C:\\Users\\facec.lab04\\source\\repos\\Exercicios-CSharp\\Exercicios-CSharp\\Exercicios-CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\facec.lab01\\Source\\Repos\\Exercicios-CSharp\\Exercicios-CSharp\\Exercicios-CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\facec.lab04\\source\\repos\\Exercicios-CSharp\\Exercicios-CSharp\\Exercicios-CSharp.csproj",
         "projectName": "Exercicios-CSharp",
-        "projectPath": "C:\\Users\\facec.lab01\\Source\\Repos\\Exercicios-CSharp\\Exercicios-CSharp\\Exercicios-CSharp.csproj",
-        "packagesPath": "C:\\Users\\facec.lab01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\facec.lab01\\Source\\Repos\\Exercicios-CSharp\\Exercicios-CSharp\\obj\\",
+        "projectPath": "C:\\Users\\facec.lab04\\source\\repos\\Exercicios-CSharp\\Exercicios-CSharp\\Exercicios-CSharp.csproj",
+        "packagesPath": "C:\\Users\\facec.lab04\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\facec.lab04\\source\\repos\\Exercicios-CSharp\\Exercicios-CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\facec.lab01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\facec.lab04\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
