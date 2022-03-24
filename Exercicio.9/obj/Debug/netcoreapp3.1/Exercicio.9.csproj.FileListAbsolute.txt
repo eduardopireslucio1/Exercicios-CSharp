@@ -1,0 +1,5 @@
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.9\obj\Debug\netcoreapp3.1\Exercicio.9.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.9\obj\Debug\netcoreapp3.1\Exercicio.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.9\obj\Debug\netcoreapp3.1\Exercicio.9.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.9\obj\Debug\netcoreapp3.1\Exercicio.9.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Exercicios-CSharp\Exercicio.9\obj\Debug\netcoreapp3.1\Exercicio.9.csproj.CoreCompileInputs.cache
